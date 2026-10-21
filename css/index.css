@@ -1,0 +1,27 @@
+:root {
+    --main-color: #BA944D;
+}
+
+
+body {
+    background: linear-gradient(to right, #243b55, #141e30);
+
+}
+
+#Register form {
+    background: #ada996;
+    background: -webkit-linear-gradient(to right, #eaeaea, #dbdbdb, #f2f2f2, #ada996);
+    background: linear-gradient(to right, #eaeaea, #dbdbdb, #f2f2f2, #ada996);
+    color: var(--main-color);
+    width: 500px;
+}
+
+
+i {
+    color: var(--main-color);
+}
+
+table.table {
+    width: max-content;
+    min-width: 100%;
+}
