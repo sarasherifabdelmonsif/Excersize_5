@@ -16,6 +16,13 @@ body {
     width: 500px;
 }
 
+#Search {
+    width: 50%;
+}
+
+#Search .input-group {
+    width: 350px;
+}
 
 i {
     color: var(--main-color);
